@@ -1,2 +1,2 @@
 # github-workflow
-practicig the workflow of using github
+practicing the workflow of using github
